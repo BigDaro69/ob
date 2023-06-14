@@ -1,0 +1,11 @@
+C:\Users\polan\Desktop\KALKULATORBMI\KALKULATORBMI\bin\Debug\KALKULATORBMI.exe.config
+C:\Users\polan\Desktop\KALKULATORBMI\KALKULATORBMI\bin\Debug\KALKULATORBMI.exe
+C:\Users\polan\Desktop\KALKULATORBMI\KALKULATORBMI\bin\Debug\KALKULATORBMI.pdb
+C:\Users\polan\Desktop\KALKULATORBMI\KALKULATORBMI\obj\Debug\KALKULATORBMI.csproj.AssemblyReference.cache
+C:\Users\polan\Desktop\KALKULATORBMI\KALKULATORBMI\obj\Debug\KALKULATORBMI.csproj.SuggestedBindingRedirects.cache
+C:\Users\polan\Desktop\KALKULATORBMI\KALKULATORBMI\obj\Debug\KALKULATORBMI.Form1.resources
+C:\Users\polan\Desktop\KALKULATORBMI\KALKULATORBMI\obj\Debug\KALKULATORBMI.Properties.Resources.resources
+C:\Users\polan\Desktop\KALKULATORBMI\KALKULATORBMI\obj\Debug\KALKULATORBMI.csproj.GenerateResource.cache
+C:\Users\polan\Desktop\KALKULATORBMI\KALKULATORBMI\obj\Debug\KALKULATORBMI.csproj.CoreCompileInputs.cache
+C:\Users\polan\Desktop\KALKULATORBMI\KALKULATORBMI\obj\Debug\KALKULATORBMI.exe
+C:\Users\polan\Desktop\KALKULATORBMI\KALKULATORBMI\obj\Debug\KALKULATORBMI.pdb
